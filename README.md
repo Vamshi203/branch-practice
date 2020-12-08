@@ -1,2 +1,2 @@
-# branch-practice
+# branching-practice
 to practice the branching strategy
